@@ -276,7 +276,7 @@
             blacklistEnabled: true,
             lockdownEnabled: false,
             lockGuard: false,
-            maximumLocktime: 10,
+            maximumLocktime: 100000,
             cycleGuard: true,
             maximumCycletime: 10,
             voteSkip: false,
