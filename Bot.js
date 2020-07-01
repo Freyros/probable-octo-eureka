@@ -312,7 +312,7 @@
             rulesLink: null,
             themeLink: null,
             fbLink: null,
-            youtubeLink: null,
+            youtubeLink: 'https://www.youtube.com/user/TheAgraelus',
             website: null,
             intervalMessages: [],
             messageInterval: 5,
